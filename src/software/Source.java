@@ -1,0 +1,5 @@
+package software;
+
+public enum Source {
+	SKORA, ORK, OSTARD, SNIEZNA, JASZCZUR, SKAVEN, TROLL, KSIEZYCOWA, DEMON, DEMONSLONCA, SMOK;
+}
