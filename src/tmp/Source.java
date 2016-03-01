@@ -1,4 +1,4 @@
-package software;
+package tmp;
 
 public enum Source {
 	ZWYKLA, ORK, OSTARD, SNIEZNA, JASZCZUR, SKAVEN, TROLL, KSIEZYCOWA, DEMON, DEMONSLONCA, SMOK;
